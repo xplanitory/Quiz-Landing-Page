@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     description: 'Take our quick 2-minute quiz and discover which asset finance solution is right for your business. Get personalized recommendations from Spidi Finance.',
     images: [
       {
-        url: '/og-image.jpg',
+        url: 'https://quiz.spidifinance.com.au/og-image.jpg',
         width: 1200,
         height: 630,
         alt: 'Spidi Finance Asset Finance Quiz',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Asset Finance Quiz | Spidi Finance',
     description: 'Find your perfect asset finance solution in just 2 minutes. Take our free quiz now!',
-    images: ['/og-image.jpg'],
+    images: ['https://quiz.spidifinance.com.au/og-image.jpg'],
   },
   robots: {
     index: true,
